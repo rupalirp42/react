@@ -1,0 +1,11 @@
+.button {
+  background-color: white;
+  padding: 10px;
+  color: black;
+  border-radius: 8px;
+  border: 1px solid black;
+}
+#mainDiv2:hover {
+  background-color: black;
+  color: white;
+}
